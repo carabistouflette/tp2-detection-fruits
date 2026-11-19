@@ -1,0 +1,62 @@
+{
+  "totaux": {
+    "images": 300,
+    "boites_valides": 450,
+    "images_sans_boite": 1,
+    "images_1_boite": 227,
+    "images_plusieurs_boites": 72,
+    "images_anomalie_format": 0,
+    "images_communes": 298,
+    "boites_robin_images_communes": 446,
+    "boites_alexis_images_communes": 828,
+    "robin_non_appariees": 59,
+    "alexis_non_appariees": 441,
+    "images_plus_boites_alexis": 132,
+    "images_plus_boites_robin": 4,
+    "images_effectif_identique": 162,
+    "appariee_meme_classe": 387,
+    "robin_non_appariee": 59,
+    "photo_hors_ref": 4,
+    "fichiers_labels_sans_image": 0
+  },
+  "classes_par_split_robin": {
+    "train": {
+      "red_apple": 120,
+      "banana": 92,
+      "orange": 93,
+      "green_apple": 14
+    },
+    "val": {
+      "red_apple": 17,
+      "banana": 23,
+      "orange": 22,
+      "green_apple": 2
+    },
+    "test": {
+      "banana": 22,
+      "red_apple": 20,
+      "orange": 22,
+      "green_apple": 3
+    }
+  },
+  "iou_mediane_appariees": 0.9429107679277664,
+  "appariees_iou_inferieure_0_75": 77,
+  "surface_mediane_relative": {
+    "robin": 0.38018077858199995,
+    "alexis": 0.17627605252147566
+  },
+  "accord_classes": {
+    "green_apple": {
+      "green_apple": 17
+    },
+    "banana": {
+      "banana": 132
+    },
+    "orange": {
+      "orange": 100
+    },
+    "red_apple": {
+      "red_apple": 138
+    }
+  }
+}

@@ -1,0 +1,8 @@
+train: images/train
+val: images/val
+test: images/test
+names:
+  0: green_apple
+  1: Banana
+  2: Orange
+  3: red_apple

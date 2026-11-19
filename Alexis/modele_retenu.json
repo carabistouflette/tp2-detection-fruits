@@ -1,0 +1,5 @@
+{
+  "poids": "runs/fruits_prolongation/weights/best.pt",
+  "epoque": 30,
+  "map50_95_validation": 0.68257
+}

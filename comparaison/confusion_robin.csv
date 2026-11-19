@@ -1,0 +1,6 @@
+reference,red_apple,green_apple,banana,orange,fond
+red_apple,18,0,0,0,2
+green_apple,0,3,0,0,0
+banana,0,0,21,0,1
+orange,0,0,0,20,2
+fond,3,0,2,2,0

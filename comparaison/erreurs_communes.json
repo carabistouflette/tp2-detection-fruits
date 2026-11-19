@@ -1,0 +1,25 @@
+{
+  "Alexis": {
+    "objets": {
+      "deux_corrects": 11,
+      "alexis_seul_correct": 8
+    },
+    "boites_en_trop": {
+      "alexis": 3,
+      "robin": 2,
+      "paires_memes_regions": 0
+    }
+  },
+  "Robin": {
+    "objets": {
+      "deux_corrects": 10,
+      "robin_seul_correct": 1,
+      "deux_erreurs": 1
+    },
+    "boites_en_trop": {
+      "alexis": 12,
+      "robin": 2,
+      "paires_memes_regions": 1
+    }
+  }
+}

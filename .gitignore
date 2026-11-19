@@ -1,0 +1,10 @@
+__pycache__/
+*.py[cod]
+*.cache
+.DS_Store
+.ipynb_checkpoints/
+.venv/
+*.log
+*.zip
+last.pt
+Alexis/sam2.1_t.pt

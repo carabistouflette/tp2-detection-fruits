@@ -1,0 +1,5 @@
+ultralytics==8.4.215
+matplotlib
+scipy
+PyYAML
+pycocotools==2.0.11
